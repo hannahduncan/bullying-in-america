@@ -1,0 +1,385 @@
+Year,Sex,Ethnicity,Percentage,Count (000s)
+2000,,,23.5,6234
+2001,,,23.8,6386
+2002,,,23.7,6475
+2003,,,22.7,6230
+2004,,,22.1,6160
+2005,,,21.9,6125
+2006,,,21.2,5930
+2007,,,21.1,5997
+2008,,,20,5669
+2009,,,19.4,5573
+2010,,,19.5,5727
+2011,,,19.6,5812
+2012,,,18.7,5647
+2013,,,17.5,5243
+2014,,,16.8,5051
+2015,,,16.9,5077
+2000,Male,,26.1,3463
+2001,Male,,26.6,3569
+2002,Male,,25.9,3556
+2003,Male,,25,3453
+2004,Male,,25,3545
+2005,Male,,24.1,3387
+2006,Male,,23.6,3327
+2007,Male,,23.5,3388
+2008,Male,,21.9,3147
+2009,Male,,21.7,3144
+2010,Male,,21.7,3215
+2011,Male,,21.3,3206
+2012,Male,,20.3,3074
+2013,Male,,19.3,2920
+2014,Male,,18.9,2892
+2015,Male,,17.7,2682
+2000,Female,,20.9,2770
+2001,Female,,21.1,2817
+2002,Female,,21.5,2919
+2003,Female,,20.4,2777
+2004,Female,,19.2,2614
+2005,Female,,19.6,2737
+2006,Female,,18.8,2603
+2007,Female,,18.7,2609
+2008,Female,,18,2522
+2009,Female,,17.1,2430
+2010,Female,,17.4,2512
+2011,Female,,17.9,2606
+2012,Female,,17.2,2573
+2013,Female,,15.6,2323
+2014,Female,,14.6,2159
+2015,Female,,16,2395
+2000,,White,18.2,3144
+2001,,White,17.9,2984
+2002,,White,18.5,3148
+2003,,White,17.6,3002
+2004,,White,17.2,2983
+2005,,White,16.8,2926
+2006,,White,16.6,2879
+2007,,White,17.2,2997
+2008,,White,15.6,2740
+2009,,White,15.4,2737
+2010,,White,15.5,2758
+2011,,White,15.9,2793
+2012,,White,15.8,2691
+2013,,White,14.2,2371
+2014,,White,13.8,2295
+2015,,White,14.2,2340
+2000,,Black,28.8,1114
+2001,,Black,29,1077
+2002,,Black,27.5,1045
+2003,,Black,27.7,1025
+2004,,Black,25.4,930
+2005,,Black,26.1,995
+2006,,Black,23.3,907
+2007,,Black,23.6,918
+2008,,Black,24.1,944
+2009,,Black,24,960
+2010,,Black,23.6,962
+2011,,Black,23.7,995
+2012,,Black,21.3,910
+2013,,Black,20.2,886
+2014,,Black,18.9,818
+2015,,Black,18.6,806
+2000,,Hispanic,43.3,1716
+2001,,Hispanic,42.8,2057
+2002,,Hispanic,41.6,2031
+2003,,Hispanic,39.7,1910
+2004,,Hispanic,39,1941
+2005,,Hispanic,37.9,1881
+2006,,Hispanic,37.3,1815
+2007,,Hispanic,34.6,1761
+2008,,Hispanic,33,1654
+2009,,Hispanic,31.2,1581
+2010,,Hispanic,30.8,1686
+2011,,Hispanic,28.8,1662
+2012,,Hispanic,26.5,1652
+2013,,Hispanic,25.9,1636
+2014,,Hispanic,24.6,1570
+2015,,Hispanic,23.7,1541
+2000,,Asian,16.4,193
+2001,,Asian,13.4,173
+2002,,Asian,12,159
+2003,,Asian,12.5,142
+2004,,Asian,12.3,135
+2005,,Asian,14.6,160
+2006,,Asian,15.8,178
+2007,,Asian,12.7,152
+2008,,Asian,11,125
+2009,,Asian,12.2,132
+2010,,Asian,12.3,144
+2011,,Asian,14.6,184
+2012,,Asian,12.1,184
+2013,,Asian,11.3,179
+2014,,Asian,10.2,160
+2015,,Asian,9.5,157
+2000,,Pacific Islander,,
+2001,,Pacific Islander,,
+2002,,Pacific Islander,,
+2003,,Pacific Islander,10.8,
+2004,,Pacific Islander,14.4,
+2005,,Pacific Islander,17.7,
+2006,,Pacific Islander,17.2,
+2007,,Pacific Islander,10.5,
+2008,,Pacific Islander,17.1,
+2009,,Pacific Islander,15.6,
+2010,,Pacific Islander,22.8,
+2011,,Pacific Islander,12.7,
+2012,,Pacific Islander,9.9,
+2013,,Pacific Islander,12.2,
+2014,,Pacific Islander,,
+2015,,Pacific Islander,20.9,
+2000,,American Indian,29.5,68
+2001,,American Indian,32.2,95
+2002,,American Indian,34,91
+2003,,American Indian,27.4,53
+2004,,American Indian,39.2,65
+2005,,American Indian,30.5,52
+2006,,American Indian,26.5,43
+2007,,American Indian,34.9,70
+2008,,American Indian,36.8,75
+2009,,American Indian,22.3,51
+2010,,American Indian,27.8,68
+2011,,American Indian,25.1,54
+2012,,American Indian,24.5,55
+2013,,American Indian,17,47
+2014,,American Indian,18.4,57
+2015,,American Indian,22.6,63
+2000,,Two or more races,,
+2001,,Two or more races,,
+2002,,Two or more races,,
+2003,,Two or more races,19.3,89
+2004,,Two or more races,20.5,92
+2005,,Two or more races,18.8,97
+2006,,Two or more races,19.8,94
+2007,,Two or more races,19,92
+2008,,Two or more races,22.7,118
+2009,,Two or more races,20,98
+2010,,Two or more races,17.9,88
+2011,,Two or more races,20.2,110
+2012,,Two or more races,18.9,142
+2013,,Two or more races,15.6,109
+2014,,Two or more races,19.1,139
+2015,,Two or more races,20.1,146
+2000,Male,White,20,1743
+2001,Male,White,20,1675
+2002,Male,White,19.9,1703
+2003,Male,White,19.3,1654
+2004,Male,White,19.6,1726
+2005,Male,White,18.6,1621
+2006,Male,White,18.4,1607
+2007,Male,White,19.2,1690
+2008,Male,White,17,1512
+2009,Male,White,17.3,1548
+2010,Male,White,16.9,1519
+2011,Male,White,17,1506
+2012,Male,White,17,1451
+2013,Male,White,15.8,1332
+2014,Male,White,15.7,1345
+2015,Male,White,14.8,1244
+2000,Male,Black,33.3,600
+2001,Male,Black,33.2,573
+2002,Male,Black,29.7,528
+2003,Male,Black,29.5,512
+2004,Male,Black,28.6,496
+2005,Male,Black,28.4,512
+2006,Male,Black,26.5,495
+2007,Male,Black,26.1,497
+2008,Male,Black,26.7,501
+2009,Male,Black,26.5,509
+2010,Male,Black,26.5,523
+2011,Male,Black,26.4,538
+2012,Male,Black,23.4,480
+2013,Male,Black,22.8,482
+2014,Male,Black,20.2,417
+2015,Male,Black,19.3,404
+2000,Male,Hispanic,46.1,958
+2001,Male,Hispanic,46.1,1176
+2002,Male,Hispanic,45.1,1167
+2003,Male,Hispanic,42.9,1124
+2004,Male,Hispanic,42.6,1154
+2005,Male,Hispanic,41.1,1083
+2006,Male,Hispanic,41.1,1060
+2007,Male,Hispanic,37.2,1005
+2008,Male,Hispanic,36,946
+2009,Male,Hispanic,34.8,917
+2010,Male,Hispanic,34.2,981
+2011,Male,Hispanic,31.2,974
+2012,Male,Hispanic,28.2,921
+2013,Male,Hispanic,28.8,932
+2014,Male,Hispanic,28,923
+2015,Male,Hispanic,25.1,832
+2000,Male,Asian,20.3,122
+2001,Male,Asian,15.4,97
+2002,Male,Asian,16.2,109
+2003,Male,Asian,15.6,87
+2004,Male,Asian,15.1,86
+2005,Male,Asian,16.1,86
+2006,Male,Asian,15.2,88
+2007,Male,Asian,15.1,91
+2008,Male,Asian,11.5,66
+2009,Male,Asian,13.8,79
+2010,Male,Asian,14.4,89
+2011,Male,Asian,15.4,99
+2012,Male,Asian,14.3,109
+2013,Male,Asian,9.9,80
+2014,Male,Asian,10.9,87
+2015,Male,Asian,9.5,79
+2000,Male,Pacific Islander,,
+2001,Male,Pacific Islander,,
+2002,Male,Pacific Islander,,
+2003,Male,Pacific Islander,,
+2004,Male,Pacific Islander,17.5,
+2005,Male,Pacific Islander,22.1,
+2006,Male,Pacific Islander,17.9,
+2007,Male,Pacific Islander,9.1,
+2008,Male,Pacific Islander,12.1,
+2009,Male,Pacific Islander,,
+2010,Male,Pacific Islander,26.3,
+2011,Male,Pacific Islander,16.5,
+2012,Male,Pacific Islander,13.3,
+2013,Male,Pacific Islander,,
+2014,Male,Pacific Islander,,
+2015,Male,Pacific Islander,16.7,
+2000,Male,American Indian,35.4,
+2001,Male,American Indian,31.3,47
+2002,Male,American Indian,39.4,49
+2003,Male,American Indian,26,24
+2004,Male,American Indian,36.4,32
+2005,Male,American Indian,35.2,30
+2006,Male,American Indian,31.4,21
+2007,Male,American Indian,44.9,52
+2008,Male,American Indian,41.5,43
+2009,Male,American Indian,25.8,28
+2010,Male,American Indian,32.5,41
+2011,Male,American Indian,26.9,28
+2012,Male,American Indian,18.3,21
+2013,Male,American Indian,24.6,
+2014,Male,American Indian,20.3,
+2015,Male,American Indian,26.7,39
+2000,Male,Two or more races,,
+2001,Male,Two or more races,,
+2002,Male,Two or more races,,
+2003,Male,Two or more races,21.8,48
+2004,Male,Two or more races,19,44
+2005,Male,Two or more races,17.5,45
+2006,Male,Two or more races,20.1,49
+2007,Male,Two or more races,20.9,48
+2008,Male,Two or more races,27.2,74
+2009,Male,Two or more races,21.6,56
+2010,Male,Two or more races,22.1,51
+2011,Male,Two or more races,18.7,53
+2012,Male,Two or more races,22.6,85
+2013,Male,Two or more races,16.1,56
+2014,Male,Two or more races,23.5,85
+2015,Male,Two or more races,22.4,75
+2000,Female,White,16.3,1401
+2001,Female,White,15.7,1309
+2002,Female,White,17,1445
+2003,Female,White,15.9,1348
+2004,Female,White,14.7,1257
+2005,Female,White,15.1,1305
+2006,Female,White,14.7,1273
+2007,Female,White,15.1,1307
+2008,Female,White,14.2,1227
+2009,Female,White,13.6,1188
+2010,Female,White,14.1,1239
+2011,Female,White,14.8,1288
+2012,Female,White,14.6,1241
+2013,Female,White,12.6,1040
+2014,Female,White,11.7,950
+2015,Female,White,13.5,1095
+2000,Female,Black,24.9,513
+2001,Female,Black,25.3,504
+2002,Female,Black,25.5,518
+2003,Female,Black,26.1,513
+2004,Female,Black,22.6,434
+2005,Female,Black,23.9,483
+2006,Female,Black,20.4,412
+2007,Female,Black,21.2,421
+2008,Female,Black,21.7,443
+2009,Female,Black,21.7,451
+2010,Female,Black,20.9,440
+2011,Female,Black,21.1,457
+2012,Female,Black,19.3,430
+2013,Female,Black,17.9,404
+2014,Female,Black,17.8,401
+2015,Female,Black,17.9,403
+2000,Female,Hispanic,40.3,758
+2001,Female,Hispanic,39.1,880
+2002,Female,Hispanic,37.7,864
+2003,Female,Hispanic,35.8,786
+2004,Female,Hispanic,34.7,787
+2005,Female,Hispanic,34.2,797
+2006,Female,Hispanic,33,755
+2007,Female,Hispanic,31.7,755
+2008,Female,Hispanic,29.7,707
+2009,Female,Hispanic,27.2,664
+2010,Female,Hispanic,27.1,705
+2011,Female,Hispanic,26,688
+2012,Female,Hispanic,24.6,731
+2013,Female,Hispanic,22.9,704
+2014,Female,Hispanic,20.9,647
+2015,Female,Hispanic,22.3,709
+2000,Female,Asian,12.3,71
+2001,Female,Asian,11.5,75
+2002,Female,Asian,7.6,50
+2003,Female,Asian,9.6,55
+2004,Female,Asian,9.3,50
+2005,Female,Asian,13.2,74
+2006,Female,Asian,16.4,91
+2007,Female,Asian,10.2,61
+2008,Female,Asian,10.4,59
+2009,Female,Asian,10.3,54
+2010,Female,Asian,9.9,55
+2011,Female,Asian,13.9,85
+2012,Female,Asian,9.8,75
+2013,Female,Asian,12.8,99
+2014,Female,Asian,9.5,73
+2015,Female,Asian,9.6,77
+2000,Female,Pacific Islander,,
+2001,Female,Pacific Islander,,
+2002,Female,Pacific Islander,,
+2003,Female,Pacific Islander,,
+2004,Female,Pacific Islander,,
+2005,Female,Pacific Islander,,
+2006,Female,Pacific Islander,16.5,
+2007,Female,Pacific Islander,12.1,
+2008,Female,Pacific Islander,20.4,
+2009,Female,Pacific Islander,14.1,
+2010,Female,Pacific Islander,19.4,
+2011,Female,Pacific Islander,9.6,
+2012,Female,Pacific Islander,,
+2013,Female,Pacific Islander,16.6,
+2014,Female,Pacific Islander,,
+2015,Female,Pacific Islander,24.7,
+2000,Female,American Indian,23.8,
+2001,Female,American Indian,33.2,48
+2002,Female,American Indian,29.2,42
+2003,Female,American Indian,28.7,29
+2004,Female,American Indian,42.5,33
+2005,Female,American Indian,25.9,22
+2006,Female,American Indian,23.1,22
+2007,Female,American Indian,20.9,
+2008,Female,American Indian,31.9,
+2009,Female,American Indian,19,
+2010,Female,American Indian,22.8,27
+2011,Female,American Indian,23.4,26
+2012,Female,American Indian,31,34
+2013,Female,American Indian,9.5,
+2014,Female,American Indian,16.3,
+2015,Female,American Indian,18.3,
+2000,Female,Two or more races,,
+2001,Female,Two or more races,,
+2002,Female,Two or more races,,
+2003,Female,Two or more races,17,40
+2004,Female,Two or more races,22.2,48
+2005,Female,Two or more races,20.1,52
+2006,Female,Two or more races,19.6,45
+2007,Female,Two or more races,17.2,44
+2008,Female,Two or more races,17.8,45
+2009,Female,Two or more races,18.3,42
+2010,Female,Two or more races,14.2,37
+2011,Female,Two or more races,21.8,58
+2012,Female,Two or more races,15.2,57
+2013,Female,Two or more races,15,53
+2014,Female,Two or more races,14.8,
+2015,Female,Two or more races,18.1,71
